@@ -179,6 +179,7 @@ def __main_function__():
 		if ch == ord('q'):
 			break
 		tiempoAuxiliar = time.time()
+		
 
 # Se introducen los argumentos de control en el formato establecido
 if __name__ == '__main__':
